@@ -182,12 +182,12 @@ The validation checks worked successfully in all test cases.
 
 ## Program Output
 
-![Program Output]<img width="439" height="457" alt="output1" src="https://github.com/user-attachments/assets/b7072e73-03b6-4ecc-92ec-cfd186982afa" />
+<img width="439" height="457" alt="output1" src="https://github.com/user-attachments/assets/b7072e73-03b6-4ecc-92ec-cfd186982afa" />
 
 
 ## Input Validation
 
-![Input Validation]<img width="423" height="493" alt="output2" src="https://github.com/user-attachments/assets/896d8ede-2c24-410b-957c-b54959567e77" />
+<img width="423" height="493" alt="output2" src="https://github.com/user-attachments/assets/896d8ede-2c24-410b-957c-b54959567e77" />
 
 
 
