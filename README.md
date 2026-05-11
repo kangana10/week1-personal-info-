@@ -180,8 +180,16 @@ The validation checks worked successfully in all test cases.
 
 # Screenshots
 
-<img width="439" height="457" alt="output1" src="https://github.com/user-attachments/assets/a55bfa0a-2d86-4d73-b248-dcad319ce8aa" />
-<img width="439" height="457" alt="output1" src="https://github.com/user-attachments/assets/db485f91-7ef8-4ec1-a092-2613611cd0c9" />
+## Program Output
+
+![Program Output]<img width="439" height="457" alt="output1" src="https://github.com/user-attachments/assets/b7072e73-03b6-4ecc-92ec-cfd186982afa" />
+
+
+## Input Validation
+
+![Input Validation]<img width="423" height="493" alt="output2" src="https://github.com/user-attachments/assets/896d8ede-2c24-410b-957c-b54959567e77" />
+
+
 
 
 ---
