@@ -1,0 +1,38 @@
+Test Case 1 - Normal Input
+----------------------------------------
+Favorite Food Input : Pizza
+Favorite Color Input: Blue
+
+Expected Result:
+Program accepts input and displays formatted information correctly.
+
+
+Test Case 2 - Empty Input Validation
+----------------------------------------
+Favorite Food Input : 
+Favorite Color Input: Red
+
+Expected Result:
+Program displays:
+"Favorite food cannot be empty!"
+
+
+Test Case 3 - Extra Spaces Input
+----------------------------------------
+Favorite Food Input :      pasta
+Favorite Color Input:      black
+
+Expected Result:
+Program removes extra spaces using .strip()
+and formats text properly using string methods.
+
+
+Test Case 4 - Different Text Formats
+----------------------------------------
+Favorite Food Input : bURger
+Favorite Color Input: reD
+
+Expected Result:
+Output becomes:
+Burger
+Red
