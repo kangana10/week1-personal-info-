@@ -23,6 +23,7 @@ The project was created to practice beginner-level Python programming and unders
 # Technologies Used
 
 - Python 3
+- VS code 
 
 ---
 
